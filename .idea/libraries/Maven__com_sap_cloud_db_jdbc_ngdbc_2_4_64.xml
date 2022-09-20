@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sap.cloud.db.jdbc:ngdbc:2.4.64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apache/RepMaven/com/sap/cloud/db/jdbc/ngdbc/2.4.64/ngdbc-2.4.64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../apache/RepMaven/com/sap/cloud/db/jdbc/ngdbc/2.4.64/ngdbc-2.4.64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../apache/RepMaven/com/sap/cloud/db/jdbc/ngdbc/2.4.64/ngdbc-2.4.64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
